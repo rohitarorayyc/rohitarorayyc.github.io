@@ -19,7 +19,7 @@ Currently rotating in Debbie Marks' lab, heading to Genentech over the summer to
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/Education.md %}
+{% include_relative _includes/services.md %}
 
 ## Work
 
