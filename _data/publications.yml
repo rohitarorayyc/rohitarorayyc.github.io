@@ -6,35 +6,14 @@ main:
     page: https://www.nature.com/articles/s41467-023-40271-4
     image: ./assets/img/teaser_example.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+  - title: "Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19."
+    authors: S. Sinha*, N. Rosin*, <strong>R. Arora</strong>, [12 others], J. Biernaskie.
+    conference_short: Nature Medicine
+    page: https://www.nature.com/articles/s41467-023-40271-4
     image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    
+  - title: "Skin regeneration is enabled in the absence of fibroblast inflammatory priming."
+    authors: S. Abbasi*, S. Sinha*, E. Labit*, N. Rosin, G. Yoon, W. Rahmani, A. Jaffer, N. Sharma, A. Hagner, P. Shah, <strong>R. Arora</strong>, [8 others], J. Biernaskie.
+    conference_short: Nature Communications
+    page: https://www.nature.com/articles/s41467-023-40271-4
     image: ./assets/img/teaser_example.png
