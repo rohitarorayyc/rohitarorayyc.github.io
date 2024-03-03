@@ -1,16 +1,20 @@
-## Services
+## Education
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>
+<div style="display:flex;align-items:flex-start;">
+  <div>
+    <ul>
+      <li>
+        <img src="p" alt="Harvard Icon" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;">
+        Harvard University, Ph.D. in Bioinformatics and Integrative Genomics
+      </li>
+      <li style="margin-left:25px;">2023-2029?</li>
+      
+      <li>
+        <img src="UCALGARY_ICON_URL" alt="UCalgary Icon" style="width:20px;height:20px;vertical-align:middle;margin-right:5px;">
+        University of Calgary, B.Sc. (honours) in Biomedical Sciences
+      </li>
+      <li style="margin-left:25px;">GPA: 3.99/4.0; top of program</li>
+      <li style="margin-left:25px;">2019-2023</li>
+    </ul>
+  </div>
+</div>
