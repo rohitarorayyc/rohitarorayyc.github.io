@@ -23,7 +23,7 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 
 - **2024**: Incoming contextual learning intern at [Genentech, Regev Lab](https://www.gene.com/scientists/our-scientists/aviv-regev).
 - **2022**: Product Manager Intern at [Telus Health](https://www.telus.com/en/business/medium-large/enterprise-solutions/internet-of-things), focusing on smart healthcare solutions.
-- **2020-2021**: Intern and consultant at [Phenomic AI](https://phenomic.ai), specializing in oncologic multi-omic drug discovery.
+- **2021-2022**: Intern and consultant at [Phenomic AI](https://phenomic.ai), specializing in oncologic multi-omic drug discovery.
 
 ## More About Me
 
