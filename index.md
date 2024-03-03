@@ -28,5 +28,5 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 ## More About Me
 
 - 🏋️‍♂️ Gym (and sports when I'm not injured)
-- 🌱 Plants (ask me about my banana tree)
-- 📚 Reading (long twitter threads these days)
+- 🌱 Plants (currently growing a banana tree)
+- 📚 Reading (long long twitter threads)
