@@ -31,7 +31,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      {{ link.notes }}
+      <span style="color: blue;">{{ link.notes }}</span>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
