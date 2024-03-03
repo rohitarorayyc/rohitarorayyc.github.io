@@ -3,17 +3,20 @@ main:
   - title: "Spatial transcriptomics reveals distinct and conserved tumor core and edge architectures that predict survival and targeted therapy response"
     authors: <strong>R. Arora</strong>*, C. Cao*, M. Kumar [12 others], P. Bose.
     conference: Nature Communications
+    periodical: 2023
     page: https://www.nature.com/articles/s41467-023-40271-4
     image: ./assets/img/teaser_example.png
 
   - title: "Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19."
     authors: S. Sinha*, N. Rosin*, <strong>R. Arora</strong>, [12 others], J. Biernaskie.
     conference: Nature Medicine
+    periodical: 2021
     page: https://www.nature.com/articles/s41591-021-01576-3
     image: ./assets/img/teaser_example.png
     
   - title: "Skin regeneration is enabled in the absence of fibroblast inflammatory priming."
     authors: S. Abbasi*, S. Sinha*, E. Labit*, N. Rosin, G. Yoon, W. Rahmani, A. Jaffer, N. Sharma, A. Hagner, P. Shah, <strong>R. Arora</strong>, [8 others], J. Biernaskie.
     conference: Cell
+    periodical: 2022
     page: https://www.cell.com/cell/fulltext/S0092-8674(22)01414-3
     image: ./assets/img/teaser_example.png
