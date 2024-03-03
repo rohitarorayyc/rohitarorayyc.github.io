@@ -1,7 +1,7 @@
 ## Education
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Harvard_University_shield.svg" alt="Harvard University Icon" style="vertical-align: middle; width: 35px; margin-right: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Harvard_University_shield.svg" alt="Harvard University Icon" style="vertical-align: middle; width: 30px; margin-right: 5px;" />
   <span>Harvard University, Ph.D. in Bioinformatics and Integrative Genomics</span>
   <br />
   <span style="margin-left: 40px;">2023-now</span>
