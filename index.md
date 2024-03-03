@@ -30,3 +30,5 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 - 🏋️‍♂️ Gym (and sports when I'm not injured)
 - 🌱 Plants (currently growing a banana tree)
 - 📚 Reading (long long twitter threads)
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU"></script>
