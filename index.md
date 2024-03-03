@@ -12,8 +12,8 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 
 - **2024**: Rotation student in the [Marks Lab](https://www.deboramarkslab.com), focusing on functional protein design.
 - **2023**: Worked on aging therapies as a rotation student in the [Church Lab](https://churchlab.hms.harvard.edu).
-- **2019-2023**: Discovered targets for regenerative medicine by studying reindeers 🦌 in the [Biernaskie Lab](https://vet.ucalgary.ca/labs/biernaskie/home?utm_source=biernaskie&utm_medium=redirect&utm_campaign=redirect).
 - **2021-2023**: Investigated the spatial architecture of tumors in the [Bose Lab](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-pinaki-bose).
+- **2019-2023**: Discovered targets for regenerative medicine by studying reindeers 🦌 in the [Biernaskie Lab](https://vet.ucalgary.ca/labs/biernaskie/home?utm_source=biernaskie&utm_medium=redirect&utm_campaign=redirect).
 
 {% include_relative _includes/publications.md %}
 
