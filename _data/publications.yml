@@ -5,7 +5,7 @@ main:
     conference: Nature Communications
     periodical: 2023
     pdf: https://www.nature.com/articles/s41467-023-40271-4
-    image: ./assets/img/oscc.png
+    image: ./assets/img/natcom.png
 
   - title: "Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19."
     authors: S. Sinha*, N. Rosin*, <strong>R. Arora</strong>, [12 others], J. Biernaskie.
