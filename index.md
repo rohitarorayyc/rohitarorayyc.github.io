@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first-year PhD student at Harvard in [Bioinformatics](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track). My interests span across artificial intelligence for scientific research, with a focus on drug discovery and protein design.
 
-Currently, I'm rotating in Debbie Marks' lab and joining Genentech this summer to work in the Regev lab.
+Currently, I'm rotating in [Debbie Marks' lab](https://www.deboramarkslab.com) and joining Genentech this summer to work in the [Regev lab](https://www.gene.com/scientists/our-scientists/aviv-regev).
 
 ## Research
 
