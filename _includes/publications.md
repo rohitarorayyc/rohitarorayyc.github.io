@@ -18,7 +18,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><strong><em>{{ link.conference }}</em></strong>
+      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.code %} 
@@ -31,7 +31,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <i>{{ link.notes }}</i>
+      {{ link.notes }}
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
