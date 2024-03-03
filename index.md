@@ -31,4 +31,4 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 - 🌱 Plants (currently growing a banana tree)
 - 📚 Reading (long long twitter threads)
 
-<a href="https://clustrmaps.com/site/1bypn"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1bypn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=cfb5b5&w=500&t=tt&d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU&co=e0f2ff&ct=3d3d3d'/></a>
