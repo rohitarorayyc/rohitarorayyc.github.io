@@ -8,14 +8,14 @@ main:
     image: ./assets/img/natcom.png
     notes: Covered by The Scientist
 
-  - title: "Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19."
+  - title: "Dexamethasone modulates immature neutrophils and interferon programming in severe COVID-19"
     authors: S. Sinha*, N. Rosin*, <strong>R. Arora</strong>, [12 others], J. Biernaskie.
     conference: Nature Medicine
     periodical: 2021
     pdf: https://www.nature.com/articles/s41591-021-01576-3
     image: ./assets/img/natmed.png
     
-  - title: "Skin regeneration is enabled in the absence of fibroblast inflammatory priming."
+  - title: "Skin regeneration is enabled in the absence of fibroblast inflammatory priming"
     authors: S. Abbasi*, S. Sinha*, E. Labit*, N. Rosin, G. Yoon, W. Rahmani, A. Jaffer, N. Sharma, A. Hagner, P. Shah, <strong>R. Arora</strong>, [8 others], J. Biernaskie.
     conference: Cell
     periodical: 2022
