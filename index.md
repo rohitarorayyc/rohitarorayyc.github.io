@@ -6,7 +6,7 @@ layout: homepage
 
 I am a first-year PhD student at Harvard studying [Bioinformatics](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track). My interests span across artificial intelligence for scientific research, with a focus on drug discovery and protein design.
 
-Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and joining Genentech this summer to work in the [Regev lab](https://www.gene.com/scientists/our-scientists/aviv-regev).
+Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com).
 
 ## Research
 
@@ -21,7 +21,6 @@ Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com) and j
 
 ## Work
 
-- **2024**: Incoming contextual learning intern at [Genentech, Regev Lab](https://www.gene.com/scientists/our-scientists/aviv-regev).
 - **2022**: Product Manager intern at [Telus Health](https://www.telus.com/en/business/medium-large/enterprise-solutions/internet-of-things), focusing on smart healthcare solutions.
 - **2021-2022**: Intern and bioinformatics consultant at [Phenomic AI](https://phenomic.ai), finding cancer drug targets using multi-omics.
 
