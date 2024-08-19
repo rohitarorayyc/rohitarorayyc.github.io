@@ -6,10 +6,11 @@ layout: homepage
 
 I am a first-year PhD student at Harvard studying [Bioinformatics](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track). My interests span across artificial intelligence for scientific research, with a focus on drug discovery and protein design.
 
-Currently, I'm rotating in the [Marks lab](https://www.deboramarkslab.com).
+Currently, I'm PhDing in the [Church Lab](https://churchlab.hms.harvard.edu).
 
 ## Research
 
+- **2024**: PhD student in the [Church Lab](https://churchlab.hms.harvard.edu) working on tbd.
 - **2024**: Rotation student in the [Marks Lab](https://www.deboramarkslab.com), focusing on functional protein design.
 - **2023**: Worked on aging therapies as a rotation student in the [Church Lab](https://churchlab.hms.harvard.edu).
 - **2021-2023**: Investigated the spatial architecture of tumors in the [Bose Lab](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-pinaki-bose).
